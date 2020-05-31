@@ -42,5 +42,45 @@
   {
     "name": "Suchomimus",
     "imgSrc": "https://img1.cgtrader.com/items/2373587/27132fdc1f/suchomimus-tenerensis-3d-model-low-poly-fbx-c4d.jpg"
+  },
+  {
+    "name": "Pachycephalosaurus",
+    "imgSrc": "https://static.turbosquid.com/Preview/2020/02/20__11_38_26/Pachy1.jpgB5F845FA-7D17-42D7-B31E-09767FCCAF9ADefaultHQ.jpg"
+  },
+  {
+    "name": "Tanius",
+    "imgSrc": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Tanius.jpg"
+  },
+  {
+    "name": "Tarchia",
+    "imgSrc": "https://i.pinimg.com/originals/58/8e/b1/588eb1f837d335f0f9c8258412b92ee6.jpg"
+  },
+  {
+    "name": "Ankylosaurus",
+    "imgSrc": "https://vignette.wikia.nocookie.net/isle/images/b/b1/Ankylo.png/revision/latest?cb=20200208124525"
+  },
+  {
+    "name": "Tarbosaurus",
+    "imgSrc": "https://vignette.wikia.nocookie.net/jurassic-world-alive/images/d/da/Tarbosaurus.png/revision/latest?cb=20180807123127"
+  },
+  {
+    "name": "Velociraptor",
+    "imgSrc": "https://images-na.ssl-images-amazon.com/images/I/91OIe-dZZ3L._AC_SL1500_.jpg"
+  },
+  {
+    "name": "Thecodontosaurus",
+    "imgSrc": "https://ayay.co.uk/backgrounds/dinosaurs/herbivore/thecodontosaurus.jpg"
+  },
+  {
+    "name": "Dromaeosaurus",
+    "imgSrc": "https://cdnb.artstation.com/p/assets/images/images/000/562/917/large/candela-riveros-dromaeosaurus-2.jpg?1426867049"
+  },
+  {
+    "name": "Apatosaurus",
+    "imgSrc": "https://vignette.wikia.nocookie.net/heroes-of-the-characters/images/5/52/Jurassic_World_Fallen_Kingdom_Apatosaurus_v2_by_Sonichedgehog2-DCFC65I.png/revision/latest?cb=20181029094358"
+  },
+   {
+    "name": "Allosaurus",
+    "imgSrc": "https://www.nps.gov/dino/learn/nature/images/allosaurus-fragilis_2.jpg"
   }
 ]
