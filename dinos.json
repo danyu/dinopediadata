@@ -34,5 +34,13 @@
   {
     "name": "Carcharodontosaurus",
     "imgSrc": "https://i.imgur.com/AQXjZ3E.jpg"
-  }
+  },
+  {
+    "name": "Spinosaurus",
+    "imgSrc": "https://cdn.britannica.com/54/128854-050-F5C98A54/Spinosaurus.jpg"
+  },
+  {
+    "name": "Suchomimus",
+    "imgSrc": "https://img1.cgtrader.com/items/2373587/27132fdc1f/suchomimus-tenerensis-3d-model-low-poly-fbx-c4d.jpg"
+  },
 ]
