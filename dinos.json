@@ -20,7 +20,7 @@
     "imgSrc": "https://images.dinosaurpictures.org/papo_brachiosaurus_2012_cf3f.jpg"
   },
   {
-    "name": "therizinosaurus",
+    "name": "Therizinosaurus",
     "imgSrc": "https://museum.wa.gov.au/sites/default/files/imagecache/wam_v2_article_full_nocrop/att-images/2014/Therizinosaurus_0.jpg"
   },
   {
@@ -79,8 +79,44 @@
     "name": "Apatosaurus",
     "imgSrc": "https://vignette.wikia.nocookie.net/heroes-of-the-characters/images/5/52/Jurassic_World_Fallen_Kingdom_Apatosaurus_v2_by_Sonichedgehog2-DCFC65I.png/revision/latest?cb=20181029094358"
   },
-   {
+  {
     "name": "Allosaurus",
     "imgSrc": "https://www.nps.gov/dino/learn/nature/images/allosaurus-fragilis_2.jpg"
+  },
+  {
+    "name": "Saurophaganax",
+    "imgSrc": "https://i.ytimg.com/vi/ZIvNjODkdWs/maxresdefault.jpg"
+  },
+  {
+    "name": "Baryonyx",
+    "imgSrc": "https://www.jurassicworld.com/sites/default/files/2018-06/1440x651_0012_baryonyx.png"
+  },
+  {
+    "name": "Albertosaurus",
+    "imgSrc": "https://i.ytimg.com/vi/2HIhnVYqwxQ/maxresdefault.jpg"
+  },
+  {
+    "name": "Styracosaurus",
+    "imgSrc": "https://cdnb.artstation.com/p/assets/images/images/016/881/491/large/david-blaya-styracosaurus-02-white.jpg?1553812951"
+  },
+  {
+    "name": "Lambeosaurus",
+    "imgSrc": "https://live.staticflickr.com/600/21705499921_8e36d71517_b.jpg"
+  },
+  {
+    "name": "Euoplocephalus",
+    "imgSrc": "https://res.cloudinary.com/dk-find-out/image/upload/q_80,w_1920,f_auto/Euplocephalus_Albert_daamm9.jpg"
+  },
+  {
+    "name": "Eoraptor",
+    "imgSrc": "https://res.cloudinary.com/dk-find-out/image/upload/q_70,c_pad,w_1200,h_630,f_auto/eoraptor_profile_new_c6uvzj.jpg"
+  },
+  {
+    "name": "Ornithomimus",
+    "imgSrc": "https://cdn.vox-cdn.com/thumbor/jIseYxO-hd11LJVBb86icDMIHfI=/41x0:758x478/1200x800/filters:focal(41x0:758x478)/cdn.vox-cdn.com/assets/1918601/Struthiomimus_BW.jpg"
+  },
+  {
+    "name": "Herrerasaurus",
+    "imgSrc": "https://vignette.wikia.nocookie.net/dinosaur-protection-group/images/2/2a/Herrerasaurus_use.png/revision/latest?cb=20200426222400"
   }
 ]
