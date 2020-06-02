@@ -118,5 +118,45 @@
   {
     "name": "Herrerasaurus",
     "imgSrc": "https://vignette.wikia.nocookie.net/dinosaur-protection-group/images/2/2a/Herrerasaurus_use.png/revision/latest?cb=20200426222400"
+  },
+  {
+    "name": "Diplodocus",
+    "imgSrc": "https://res.cloudinary.com/dk-find-out/image/upload/q_80,h_1000,f_auto/diplodocus_whole_amzt6e.jpg"
+  },
+  {
+    "name": "Einiosaurus",
+    "imgSrc": "https://www.brainstormltd.co.uk/wp-content/uploads/2018/05/1-1_Einiosaurus_copy-1024x929.jpg"
+  },
+  {
+    "name": "Deinonychus",
+    "imgSrc": "https://www.worldatlas.com/r/w1200-h701-c1200x701/upload/26/92/6c/shutterstock-467339321.jpg"
+  },
+  {
+    "name": "Tenontosaurus",
+    "imgSrc": "https://www.sciencesource.com/Doc/TR1_WATERMARKED/e/e/9/4/SS2804763.jpg?d63644555265"
+  },
+  {
+    "name": "Plateosaurus",
+    "imgSrc": "https://res.cloudinary.com/dk-find-out/image/upload/q_80,w_1920,f_auto/Plateosaurus_whole_bq2b8s.jpg"
+  },
+  {
+    "name": "Oviraptor",
+    "imgSrc": "https://c8.alamy.com/comp/E1JMF8/oviraptor-dinosaur-white-background-E1JMF8.jpg"
+  },
+  {
+    "name": "Sinosauropteryx",
+    "imgSrc": "https://www.newdinosaurs.com/wp-content/uploads/2019/02/1739_sinosauropteryx_oscar_valdes.png"
+  },
+  {
+    "name": "Riojasaurus",
+    "imgSrc": "https://i.pinimg.com/originals/5b/ac/e4/5bace4a2e0e09c910a1556aece402d59.jpg"
+  },
+  {
+    "name": "Titanasaur",
+    "imgSrc": "https://cdn.britannica.com/13/196913-050-F498B777/illustration-titanosaur-Saltasaurus-length.jpg"
+  },
+  {
+    "name": "Hadrosaurus",
+    "imgSrc": "https://previews.123rf.com/images/sciencerf/sciencerf1704/sciencerf170426149/77545262-hadrosaurus-dinosaur-artwork.jpg"
   }
 ]
