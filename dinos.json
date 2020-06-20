@@ -1,162 +1,497 @@
 [
   {
     "name": "T-Rex",
-    "imgSrc": "https://thenypost.files.wordpress.com/2019/12/dinosaur-feature.jpg?quality=80&strip=all"
+    "imgSrc": "https://thenypost.files.wordpress.com/2019/12/dinosaur-feature.jpg?quality=80&strip=all",
+    "weight": "",
+    "height": "",
+    "length": "",
+    "diet": "",
+    "period": ""
   },
   {
     "name": "Troodon",
-    "imgSrc":"https://images.dinosaurpictures.org/Troodon_3c60.jpg"
+    "imgSrc":"https://images.dinosaurpictures.org/Troodon_3c60.jpg",
+    "weight": "110 lbs",
+    "height": "3 ft.",
+    "length": "7.9 ft.",
+    "diet": "meat & plants",
+    "period": "Cretaceous"
   },
   {
     "name": "T-rex",
-    "imgSrc": "https://natgeo.imgix.net/factsheets/thumbnails/01-trex-scotty_publicity_websize-credit--beth-zaiken.adapt.1900.1.jpg?auto=compress,format&w=1600&h=900&fit=crop"
+    "imgSrc": "https://natgeo.imgix.net/factsheets/thumbnails/01-trex-scotty_publicity_websize-credit--beth-zaiken.adapt.1900.1.jpg?auto=compress,format&w=1600&h=900&fit=crop",
+    "weight": "9,900-31,000 lbs",
+    "height": "12-20 ft.",
+    "length": "40 ft.",
+    "diet": "meat",
+    "period": "Cretaceous"
   },
   {
     "name": "Triceratops",
-    "imgSrc": "https://live.mrf.io/statics/i/ps/cdn.zmescience.com/wp-content/uploads/2018/03/Triceratops_BWMK.jpg?width=1200&enable=upscale"
+    "imgSrc": "https://live.mrf.io/statics/i/ps/cdn.zmescience.com/wp-content/uploads/2018/03/Triceratops_BWMK.jpg?width=1200&enable=upscale",
+    "weight": "",
+    "height": "",
+    "length": "",
+    "diet": "",
+    "period": ""
   },
   {
     "name": "Brachiosaurus",
-    "imgSrc": "https://images.dinosaurpictures.org/papo_brachiosaurus_2012_cf3f.jpg"
+    "imgSrc": "https://images.dinosaurpictures.org/papo_brachiosaurus_2012_cf3f.jpg",
+    "weight": "",
+    "height": "",
+    "length": "",
+    "diet": "",
+    "period": ""
   },
   {
     "name": "Therizinosaurus",
-    "imgSrc": "https://museum.wa.gov.au/sites/default/files/imagecache/wam_v2_article_full_nocrop/att-images/2014/Therizinosaurus_0.jpg"
+    "imgSrc": "https://museum.wa.gov.au/sites/default/files/imagecache/wam_v2_article_full_nocrop/att-images/2014/Therizinosaurus_0.jpg",
+    "weight": "",
+    "height": "",
+    "length": "",
+    "diet": "",
+    "period": ""
   },
   {
     "name": "Stegosaurus",
-    "imgSrc": "https://www.renderhub.com/treeworld3d/game-ready-dinosaur-stegosaurus/game-ready-dinosaur-stegosaurus-01.jpg"
+    "imgSrc": "https://www.renderhub.com/treeworld3d/game-ready-dinosaur-stegosaurus/game-ready-dinosaur-stegosaurus-01.jpg",
+    "weight": "",
+    "height": "",
+    "length": "",
+    "diet": "",
+    "period": ""
   },
   {
     "name": "Giganotosaurus",
-    "imgSrc": "https://i0.wp.com/iknowdino.com/wp-content/uploads/2018/02/Giganotos_Db.jpg?fit=1280%2C640&ssl=1"
+    "imgSrc": "https://i0.wp.com/iknowdino.com/wp-content/uploads/2018/02/Giganotos_Db.jpg?fit=1280%2C640&ssl=1",
+    "weight": "",
+    "height": "",
+    "length": "",
+    "diet": "",
+    "period": ""
   },
   {
     "name": "Carcharodontosaurus",
-    "imgSrc": "https://i.imgur.com/AQXjZ3E.jpg"
+    "imgSrc": "https://i.imgur.com/AQXjZ3E.jpg",
+    "weight": "",
+    "height": "",
+    "length": "",
+    "diet": "",
+    "period": ""
   },
   {
     "name": "Spinosaurus",
-    "imgSrc": "https://cdn.britannica.com/54/128854-050-F5C98A54/Spinosaurus.jpg"
+    "imgSrc": "https://cdn.britannica.com/54/128854-050-F5C98A54/Spinosaurus.jpg",
+    "weight": "",
+    "height": "",
+    "length": "",
+    "diet": "",
+    "period": ""
   },
   {
     "name": "Suchomimus",
-    "imgSrc": "https://img1.cgtrader.com/items/2373587/27132fdc1f/suchomimus-tenerensis-3d-model-low-poly-fbx-c4d.jpg"
+    "imgSrc": "https://img1.cgtrader.com/items/2373587/27132fdc1f/suchomimus-tenerensis-3d-model-low-poly-fbx-c4d.jpg",
+    "weight": "",
+    "height": "",
+    "length": "",
+    "diet": "",
+    "period": ""
   },
   {
     "name": "Pachycephalosaurus",
-    "imgSrc": "https://static.turbosquid.com/Preview/2020/02/20__11_38_26/Pachy1.jpgB5F845FA-7D17-42D7-B31E-09767FCCAF9ADefaultHQ.jpg"
+    "imgSrc": "https://static.turbosquid.com/Preview/2020/02/20__11_38_26/Pachy1.jpgB5F845FA-7D17-42D7-B31E-09767FCCAF9ADefaultHQ.jpg",
+    "weight": "",
+    "height": "",
+    "length": "",
+    "diet": "",
+    "period": ""
   },
   {
     "name": "Tanius",
-    "imgSrc": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Tanius.jpg"
+    "imgSrc": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Tanius.jpg",
+    "weight": "",
+    "height": "",
+    "length": "",
+    "diet": "",
+    "period": ""
   },
   {
     "name": "Tarchia",
-    "imgSrc": "https://i.pinimg.com/originals/58/8e/b1/588eb1f837d335f0f9c8258412b92ee6.jpg"
+    "imgSrc": "https://i.pinimg.com/originals/58/8e/b1/588eb1f837d335f0f9c8258412b92ee6.jpg",
+    "weight": "",
+    "height": "",
+    "length": "",
+    "diet": "",
+    "period": ""
   },
   {
     "name": "Ankylosaurus",
-    "imgSrc": "https://vignette.wikia.nocookie.net/isle/images/b/b1/Ankylo.png/revision/latest?cb=20200208124525"
+    "imgSrc": "https://vignette.wikia.nocookie.net/isle/images/b/b1/Ankylo.png/revision/latest?cb=20200208124525",
+    "weight": "",
+    "height": "",
+    "length": "",
+    "diet": "",
+    "period": ""
   },
   {
     "name": "Tarbosaurus",
-    "imgSrc": "https://vignette.wikia.nocookie.net/jurassic-world-alive/images/d/da/Tarbosaurus.png/revision/latest?cb=20180807123127"
+    "imgSrc": "https://vignette.wikia.nocookie.net/jurassic-world-alive/images/d/da/Tarbosaurus.png/revision/latest?cb=20180807123127",
+    "weight": "",
+    "height": "",
+    "length": "",
+    "diet": "",
+    "period": ""
   },
   {
     "name": "Velociraptor",
-    "imgSrc": "https://images-na.ssl-images-amazon.com/images/I/91OIe-dZZ3L._AC_SL1500_.jpg"
+    "imgSrc": "https://images-na.ssl-images-amazon.com/images/I/91OIe-dZZ3L._AC_SL1500_.jpg",
+    "weight": "",
+    "height": "",
+    "length": "",
+    "diet": "",
+    "period": ""
   },
   {
     "name": "Thecodontosaurus",
-    "imgSrc": "https://ayay.co.uk/backgrounds/dinosaurs/herbivore/thecodontosaurus.jpg"
+    "imgSrc": "https://ayay.co.uk/backgrounds/dinosaurs/herbivore/thecodontosaurus.jpg",
+    "weight": "",
+    "height": "",
+    "length": "",
+    "diet": "",
+    "period": ""
   },
   {
     "name": "Dromaeosaurus",
-    "imgSrc": "https://cdnb.artstation.com/p/assets/images/images/000/562/917/large/candela-riveros-dromaeosaurus-2.jpg?1426867049"
+    "imgSrc": "https://cdnb.artstation.com/p/assets/images/images/000/562/917/large/candela-riveros-dromaeosaurus-2.jpg?1426867049",
+    "weight": "",
+    "height": "",
+    "length": "",
+    "diet": "",
+    "period": ""
   },
   {
     "name": "Apatosaurus",
-    "imgSrc": "https://vignette.wikia.nocookie.net/heroes-of-the-characters/images/5/52/Jurassic_World_Fallen_Kingdom_Apatosaurus_v2_by_Sonichedgehog2-DCFC65I.png/revision/latest?cb=20181029094358"
+    "imgSrc": "https://vignette.wikia.nocookie.net/heroes-of-the-characters/images/5/52/Jurassic_World_Fallen_Kingdom_Apatosaurus_v2_by_Sonichedgehog2-DCFC65I.png/revision/latest?cb=20181029094358",
+    "weight": "",
+    "height": "",
+    "length": "",
+    "diet": "",
+    "period": ""
   },
   {
     "name": "Allosaurus",
-    "imgSrc": "https://www.nps.gov/dino/learn/nature/images/allosaurus-fragilis_2.jpg"
+    "imgSrc": "https://www.nps.gov/dino/learn/nature/images/allosaurus-fragilis_2.jpg",
+    "weight": "",
+    "height": "",
+    "length": "",
+    "diet": "",
+    "period": ""
   },
   {
     "name": "Saurophaganax",
-    "imgSrc": "https://i.ytimg.com/vi/ZIvNjODkdWs/maxresdefault.jpg"
+    "imgSrc": "https://i.ytimg.com/vi/ZIvNjODkdWs/maxresdefault.jpg",
+    "weight": "",
+    "height": "",
+    "length": "",
+    "diet": "",
+    "period": ""
   },
   {
     "name": "Baryonyx",
-    "imgSrc": "https://www.jurassicworld.com/sites/default/files/2018-06/1440x651_0012_baryonyx.png"
+    "imgSrc": "https://www.jurassicworld.com/sites/default/files/2018-06/1440x651_0012_baryonyx.png",
+    "weight": "",
+    "height": "",
+    "length": "",
+    "diet": "",
+    "period": ""
   },
   {
     "name": "Albertosaurus",
-    "imgSrc": "https://i.ytimg.com/vi/2HIhnVYqwxQ/maxresdefault.jpg"
+    "imgSrc": "https://i.ytimg.com/vi/2HIhnVYqwxQ/maxresdefault.jpg",
+    "weight": "",
+    "height": "",
+    "length": "",
+    "diet": "",
+    "period": ""
   },
   {
     "name": "Styracosaurus",
-    "imgSrc": "https://cdnb.artstation.com/p/assets/images/images/016/881/491/large/david-blaya-styracosaurus-02-white.jpg?1553812951"
+    "imgSrc": "https://cdnb.artstation.com/p/assets/images/images/016/881/491/large/david-blaya-styracosaurus-02-white.jpg?1553812951",
+    "weight": "",
+    "height": "",
+    "length": "",
+    "diet": "",
+    "period": ""
   },
   {
     "name": "Lambeosaurus",
-    "imgSrc": "https://live.staticflickr.com/600/21705499921_8e36d71517_b.jpg"
+    "imgSrc": "https://live.staticflickr.com/600/21705499921_8e36d71517_b.jpg",
+    "weight": "",
+    "height": "",
+    "length": "",
+    "diet": "",
+    "period": ""
   },
   {
     "name": "Euoplocephalus",
-    "imgSrc": "https://res.cloudinary.com/dk-find-out/image/upload/q_80,w_1920,f_auto/Euplocephalus_Albert_daamm9.jpg"
+    "imgSrc": "https://res.cloudinary.com/dk-find-out/image/upload/q_80,w_1920,f_auto/Euplocephalus_Albert_daamm9.jpg",
+    "weight": "",
+    "height": "",
+    "length": "",
+    "diet": "",
+    "period": ""
   },
   {
     "name": "Eoraptor",
-    "imgSrc": "https://res.cloudinary.com/dk-find-out/image/upload/q_70,c_pad,w_1200,h_630,f_auto/eoraptor_profile_new_c6uvzj.jpg"
+    "imgSrc": "https://res.cloudinary.com/dk-find-out/image/upload/q_70,c_pad,w_1200,h_630,f_auto/eoraptor_profile_new_c6uvzj.jpg",
+    "weight": "",
+    "height": "",
+    "length": "",
+    "diet": "",
+    "period": ""
   },
   {
     "name": "Ornithomimus",
-    "imgSrc": "https://cdn.vox-cdn.com/thumbor/jIseYxO-hd11LJVBb86icDMIHfI=/41x0:758x478/1200x800/filters:focal(41x0:758x478)/cdn.vox-cdn.com/assets/1918601/Struthiomimus_BW.jpg"
+    "imgSrc": "https://cdn.vox-cdn.com/thumbor/jIseYxO-hd11LJVBb86icDMIHfI=/41x0:758x478/1200x800/filters:focal(41x0:758x478)/cdn.vox-cdn.com/assets/1918601/Struthiomimus_BW.jpg",
+    "weight": "",
+    "height": "",
+    "length": "",
+    "diet": "",
+    "period": ""
   },
   {
     "name": "Herrerasaurus",
-    "imgSrc": "https://vignette.wikia.nocookie.net/dinosaur-protection-group/images/2/2a/Herrerasaurus_use.png/revision/latest?cb=20200426222400"
+    "imgSrc": "https://vignette.wikia.nocookie.net/dinosaur-protection-group/images/2/2a/Herrerasaurus_use.png/revision/latest?cb=20200426222400",
+    "weight": "",
+    "height": "",
+    "length": "",
+    "diet": "",
+    "period": ""
   },
   {
     "name": "Diplodocus",
-    "imgSrc": "https://res.cloudinary.com/dk-find-out/image/upload/q_80,h_1000,f_auto/diplodocus_whole_amzt6e.jpg"
+    "imgSrc": "https://res.cloudinary.com/dk-find-out/image/upload/q_80,h_1000,f_auto/diplodocus_whole_amzt6e.jpg",
+    "weight": "",
+    "height": "",
+    "length": "",
+    "diet": "",
+    "period": ""
   },
   {
     "name": "Einiosaurus",
-    "imgSrc": "https://www.brainstormltd.co.uk/wp-content/uploads/2018/05/1-1_Einiosaurus_copy-1024x929.jpg"
+    "imgSrc": "https://www.brainstormltd.co.uk/wp-content/uploads/2018/05/1-1_Einiosaurus_copy-1024x929.jpg",
+    "weight": "",
+    "height": "",
+    "length": "",
+    "diet": "",
+    "period": ""
   },
   {
     "name": "Deinonychus",
-    "imgSrc": "https://www.worldatlas.com/r/w1200-h701-c1200x701/upload/26/92/6c/shutterstock-467339321.jpg"
+    "imgSrc": "https://www.worldatlas.com/r/w1200-h701-c1200x701/upload/26/92/6c/shutterstock-467339321.jpg",
+    "weight": "",
+    "height": "",
+    "length": "",
+    "diet": "",
+    "period": ""
   },
   {
     "name": "Tenontosaurus",
-    "imgSrc": "https://www.sciencesource.com/Doc/TR1_WATERMARKED/e/e/9/4/SS2804763.jpg?d63644555265"
+    "imgSrc": "https://www.sciencesource.com/Doc/TR1_WATERMARKED/e/e/9/4/SS2804763.jpg?d63644555265",
+    "weight": "",
+    "height": "",
+    "length": "",
+    "diet": "",
+    "period": ""
   },
   {
     "name": "Plateosaurus",
-    "imgSrc": "https://res.cloudinary.com/dk-find-out/image/upload/q_80,w_1920,f_auto/Plateosaurus_whole_bq2b8s.jpg"
+    "imgSrc": "https://res.cloudinary.com/dk-find-out/image/upload/q_80,w_1920,f_auto/Plateosaurus_whole_bq2b8s.jpg",
+    "weight": "",
+    "height": "",
+    "length": "",
+    "diet": "",
+    "period": ""
   },
   {
     "name": "Oviraptor",
-    "imgSrc": "https://c8.alamy.com/comp/E1JMF8/oviraptor-dinosaur-white-background-E1JMF8.jpg"
+    "imgSrc": "https://c8.alamy.com/comp/E1JMF8/oviraptor-dinosaur-white-background-E1JMF8.jpg",
+    "weight": "",
+    "height": "",
+    "length": "",
+    "diet": "",
+    "period": ""
   },
   {
     "name": "Sinosauropteryx",
-    "imgSrc": "https://www.newdinosaurs.com/wp-content/uploads/2019/02/1739_sinosauropteryx_oscar_valdes.png"
+    "imgSrc": "https://www.newdinosaurs.com/wp-content/uploads/2019/02/1739_sinosauropteryx_oscar_valdes.png",
+    "weight": "",
+    "height": "",
+    "length": "",
+    "diet": "",
+    "period": ""
   },
   {
     "name": "Riojasaurus",
-    "imgSrc": "https://i.pinimg.com/originals/5b/ac/e4/5bace4a2e0e09c910a1556aece402d59.jpg"
+    "imgSrc": "https://i.pinimg.com/originals/5b/ac/e4/5bace4a2e0e09c910a1556aece402d59.jpg",
+    "weight": "",
+    "height": "",
+    "length": "",
+    "diet": "",
+    "period": ""
   },
   {
     "name": "Titanasaur",
-    "imgSrc": "https://cdn.britannica.com/13/196913-050-F498B777/illustration-titanosaur-Saltasaurus-length.jpg"
+    "imgSrc": "https://cdn.britannica.com/13/196913-050-F498B777/illustration-titanosaur-Saltasaurus-length.jpg",
+    "weight": "",
+    "height": "",
+    "length": "",
+    "diet": "",
+    "period": ""
   },
   {
     "name": "Hadrosaurus",
-    "imgSrc": "https://previews.123rf.com/images/sciencerf/sciencerf1704/sciencerf170426149/77545262-hadrosaurus-dinosaur-artwork.jpg"
+    "imgSrc": "https://previews.123rf.com/images/sciencerf/sciencerf1704/sciencerf170426149/77545262-hadrosaurus-dinosaur-artwork.jpg",
+    "weight": "",
+    "height": "",
+    "length": "",
+    "diet": "",
+    "period": ""
+  },
+  {
+    "name": "Lesothosaurus",
+    "imgSrc": "https://dynaimage.cdn.cnn.com/cnn/c_fill,g_auto,w_1200,h_675,ar_16:9/https%3A%2F%2Fcdn.cnn.com%2Fcnnnext%2Fdam%2Fassets%2F191114160250-feathered-dinosaur-south-pole.jpg",
+    "weight": "",
+    "height": "",
+    "length": "",
+    "diet": "",
+    "period": ""
+  },
+  {
+    "name": "Heterodontosaurus",
+    "imgSrc": "https://c8.alamy.com/comp/E1JMDG/heterodontosaurus-dinosaur-white-background-E1JMDG.jpg",
+    "weight": "",
+    "height": "",
+    "length": "",
+    "diet": "",
+    "period": ""
+  },
+  {
+    "name": "Dryosaurus",
+    "imgSrc": "https://www.nps.gov/dino/learn/nature/images/dryosaurus.jpg",
+    "weight": "",
+    "height": "",
+    "length": "",
+    "diet": "",
+    "period": ""
+  },
+  {
+    "name": "Carnotaurus",
+    "imgSrc": "https://i.pinimg.com/originals/a8/c2/da/a8c2da4ac3f5976086bdc6054c61f6d8.png",
+    "weight": "",
+    "height": "",
+    "length": "",
+    "diet": "",
+    "period": ""
+  },
+  {
+    "name": "Iguanodon",
+    "imgSrc": "https://vignette.wikia.nocookie.net/dinosaurs/images/2/2f/IguanodonInfobox.jpg/revision/latest?cb=20151027225451",
+    "weight": "",
+    "height": "",
+    "length": "",
+    "diet": "",
+    "period": ""
+  },
+  {
+    "name": "Hypsilophodon",
+    "imgSrc": "https://cdn11.bigcommerce.com/s-yzgoj/images/stencil/1280x1280/products/1467471/1976668/PSTCFR200190P__11048.1494321143.jpg?c=2&imbypass=on",
+    "weight": "",
+    "height": "",
+    "length": "",
+    "diet": "",
+    "period": ""
+  },
+  {
+    "name": "Parasaurolophus",
+    "imgSrc": "https://res.cloudinary.com/dk-find-out/image/upload/q_80,w_1920,f_auto/Parasaurolophus_mh9k5i.jpg",
+    "weight": "",
+    "height": "",
+    "length": "",
+    "diet": "",
+    "period": ""
+  },
+  {
+    "name": "Tsintaosaurus",
+    "imgSrc": "https://media.australianmuseum.net.au/media/dd/images/Some_image.width-1200.e50411b.jpg",
+    "weight": "",
+    "height": "",
+    "length": "",
+    "diet": "",
+    "period": ""
+  },
+  {
+    "name": "Corythosaurus",
+    "imgSrc": "https://www.newdinosaurs.com/wp-content/uploads/2016/01/274_corythosaurus_sergio_perez.jpg",
+    "weight": "",
+    "height": "",
+    "length": "",
+    "diet": "",
+    "period": ""
+  },
+  {
+    "name": "Muttaburrasaurus",
+    "imgSrc": "https://cdn11.bigcommerce.com/s-yzgoj/images/stencil/1280x1280/products/1465959/4242121/PSTNBT600128P__63496.1541860924.jpg?c=2&imbypass=on",
+    "weight": "",
+    "height": "",
+    "length": "",
+    "diet": "",
+    "period": ""
+  },
+  {
+    "name": "Maiasaura",
+    "imgSrc": "https://gamepress.gg/jurassicworldalive/sites/jurassicworldalive/files/2019-06/Maiasaura-profile.png",
+    "weight": "",
+    "height": "",
+    "length": "",
+    "diet": "",
+    "period": ""
+  },
+  {
+    "name": "Protoceratops",
+    "imgSrc": "https://static3.bigstockphoto.com/9/2/3/large1500/329028595.jpg",
+    "weight": "",
+    "height": "",
+    "length": "",
+    "diet": "",
+    "period": ""
+  },
+  {
+    "name": "Pentaceratops",
+    "imgSrc": "https://www.newdinosaurs.com/wp-content/uploads/2016/01/488_pentaceratops_sergey_krasovskiy.jpg",
+    "weight": "",
+    "height": "",
+    "length": "",
+    "diet": "",
+    "period": ""
+  },
+  {
+    "name": "Stegoceras",
+    "imgSrc": "https://previews.123rf.com/images/catmando/catmando2002/catmando200200027/140992689-stegoceras-was-a-herbivorous-dome-headed-dinosaur-that-lived-in-north-america-during-the-cretaceous-.jpg",
+    "weight": "",
+    "height": "",
+    "length": "",
+    "diet": "",
+    "period": ""
+  },
+  {
+    "name": "Tuojiangosaurus",
+    "imgSrc": "https://66.media.tumblr.com/d8fb83cf6023f7cc84b534f66e391542/tumblr_inline_ptzsojgH1m1rx4yme_1280.png",
+    "weight": "",
+    "height": "",
+    "length": "",
+    "diet": "",
+    "period": ""
   }
 ]
