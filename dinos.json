@@ -29,45 +29,45 @@
   {
     "name": "Triceratops",
     "imgSrc": "https://live.mrf.io/statics/i/ps/cdn.zmescience.com/wp-content/uploads/2018/03/Triceratops_BWMK.jpg?width=1200&enable=upscale",
-    "weight": "",
-    "height": "",
-    "length": "",
-    "diet": "",
-    "period": ""
+    "weight": "13,000-26,000 lbs",
+    "height": "9.5-9.8 ft.",
+    "length": "26-30 ft.",
+    "diet": "plants",
+    "period": "Cretaceous"
   },
   {
     "name": "Brachiosaurus",
     "imgSrc": "https://images.dinosaurpictures.org/papo_brachiosaurus_2012_cf3f.jpg",
-    "weight": "",
-    "height": "",
-    "length": "",
-    "diet": "",
-    "period": ""
+    "weight": "62 tons",
+    "height": "66-69 ft.",
+    "length": "85-98 ft.",
+    "diet": "plants",
+    "period": "Cretaceous"
   },
   {
     "name": "Therizinosaurus",
     "imgSrc": "https://museum.wa.gov.au/sites/default/files/imagecache/wam_v2_article_full_nocrop/att-images/2014/Therizinosaurus_0.jpg",
-    "weight": "",
-    "height": "",
-    "length": "",
-    "diet": "",
-    "period": ""
+    "weight": "11,000 lbs",
+    "height": "4.5 ft.",
+    "length": " 33 ft.",
+    "diet": "plants",
+    "period": "Cretaceous"
   },
   {
     "name": "Stegosaurus",
     "imgSrc": "https://www.renderhub.com/treeworld3d/game-ready-dinosaur-stegosaurus/game-ready-dinosaur-stegosaurus-01.jpg",
-    "weight": "",
+    "weight": "11,700-15,400",
     "height": "",
-    "length": "",
-    "diet": "",
-    "period": ""
+    "length": "21 ft.",
+    "diet": "plants",
+    "period": "Jurassic"
   },
   {
     "name": "Giganotosaurus",
     "imgSrc": "https://i0.wp.com/iknowdino.com/wp-content/uploads/2018/02/Giganotos_Db.jpg?fit=1280%2C640&ssl=1",
-    "weight": "",
+    "weight": "9,300- 30,000",
     "height": "",
-    "length": "",
+    "length": "39 – 43 ft.",
     "diet": "",
     "period": ""
   },
