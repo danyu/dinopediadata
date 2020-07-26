@@ -65,38 +65,38 @@
   {
     "name": "Giganotosaurus",
     "imgSrc": "https://i0.wp.com/iknowdino.com/wp-content/uploads/2018/02/Giganotos_Db.jpg?fit=1280%2C640&ssl=1",
-    "weight": "9,300- 30,000",
-    "height": "",
+    "weight": "9,300- 30,000 lb",
+    "height": "16.6-18.3 ft.",
     "length": "39 – 43 ft.",
-    "diet": "",
-    "period": ""
+    "diet": "meat",
+    "period": "Cretaceous"
   },
   {
     "name": "Carcharodontosaurus",
     "imgSrc": "https://i.imgur.com/AQXjZ3E.jpg",
-    "weight": "",
-    "height": "",
-    "length": "",
-    "diet": "",
-    "period": ""
+    "weight": "13,000 – 33,000 lbs",
+    "height": "4.3 meters",
+    "length": "26 – 46 ft.",
+    "diet": "meat",
+    "period": "Cretaceous"
   },
   {
     "name": "Spinosaurus",
     "imgSrc": "https://cdn.britannica.com/54/128854-050-F5C98A54/Spinosaurus.jpg",
     "weight": "",
-    "height": "",
-    "length": "",
-    "diet": "",
-    "period": ""
+    "height": "14 – 23 ft.",
+    "length": "49 – 51 ft.",
+    "diet": "meat",
+    "period": "Cretaceous"
   },
   {
     "name": "Suchomimus",
     "imgSrc": "https://img1.cgtrader.com/items/2373587/27132fdc1f/suchomimus-tenerensis-3d-model-low-poly-fbx-c4d.jpg",
-    "weight": "",
-    "height": "",
-    "length": "",
-    "diet": "",
-    "period": ""
+    "weight": "2.5-5.2 tons",
+    "height": "11-16.4 ft.",
+    "length": "31-36 ft.",
+    "diet": "meat",
+    "period": "Cretaceous"
   },
   {
     "name": "Pachycephalosaurus",
@@ -115,7 +115,7 @@
     "length": "",
     "diet": "",
     "period": ""
-  },
+  },                                                                             
   {
     "name": "Tarchia",
     "imgSrc": "https://i.pinimg.com/originals/58/8e/b1/588eb1f837d335f0f9c8258412b92ee6.jpg",
