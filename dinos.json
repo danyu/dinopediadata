@@ -1,14 +1,5 @@
 [
   {
-    "name": "T-Rex",
-    "imgSrc": "https://thenypost.files.wordpress.com/2019/12/dinosaur-feature.jpg?quality=80&strip=all",
-    "weight": "",
-    "height": "",
-    "length": "",
-    "diet": "",
-    "period": ""
-  },
-  {
     "name": "Troodon",
     "imgSrc":"https://images.dinosaurpictures.org/Troodon_3c60.jpg",
     "weight": "110 lbs",
@@ -19,7 +10,7 @@
   },
   {
     "name": "T-rex",
-    "imgSrc": "https://natgeo.imgix.net/factsheets/thumbnails/01-trex-scotty_publicity_websize-credit--beth-zaiken.adapt.1900.1.jpg?auto=compress,format&w=1600&h=900&fit=crop",
+    "imgSrc": "https://thenypost.files.wordpress.com/2019/12/dinosaur-feature.jpg?quality=80&strip=all",
     "weight": "9,900-31,000 lbs",
     "height": "12-20 ft.",
     "length": "40 ft.",
