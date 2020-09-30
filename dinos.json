@@ -7,6 +7,7 @@
     "length": "7.9 ft.",
     "diet": "meat & plants",
     "period": "Cretaceous"
+    
   },
   {
     "name": "T-rex",
@@ -92,28 +93,28 @@
   {
     "name": "Pachycephalosaurus",
     "imgSrc": "https://static.turbosquid.com/Preview/2020/02/20__11_38_26/Pachy1.jpgB5F845FA-7D17-42D7-B31E-09767FCCAF9ADefaultHQ.jpg",
-    "weight": "",
-    "height": "",
-    "length": "",
-    "diet": "",
-    "period": ""
+    "weight": "66 – 2,200 lbs",
+    "height": "5 ft.",
+    "length": "15 ft.",
+    "diet": "plants",
+    "period": "Cretaceous"
   },
   {
     "name": "Tanius",
     "imgSrc": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Tanius.jpg",
-    "weight": "",
-    "height": "",
-    "length": "",
-    "diet": "",
-    "period": ""
+    "weight": "4,400 lbs",
+    "height": "7 meters",
+    "length": "23 ft.",
+    "diet": "plants",
+    "period": "Cretaceous"
   },                                                                             
   {
     "name": "Tarchia",
     "imgSrc": "https://i.pinimg.com/originals/58/8e/b1/588eb1f837d335f0f9c8258412b92ee6.jpg",
-    "weight": "",
+    "weight": "weight of 2.5 tons",
     "height": "",
-    "length": "",
-    "diet": "",
+    "length": "28 ft.",
+    "diet": "plants",
     "period": ""
   },
   {
