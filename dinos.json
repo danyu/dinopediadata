@@ -6,26 +6,26 @@
     "height": "3 ft.",
     "length": "7.9 ft.",
     "diet": "meat & plants",
-    "period": "Cretaceous"
+    "period": "Late Cretaceous"
     
   },
   {
     "name": "T-rex",
     "imgSrc": "https://thenypost.files.wordpress.com/2019/12/dinosaur-feature.jpg?quality=80&strip=all",
-    "weight": "9,900-31,000 lbs",
+    "weight": "9900-31000 lbs",
     "height": "12-20 ft.",
     "length": "40 ft.",
     "diet": "meat",
-    "period": "Cretaceous"
+    "period": "Late Cretaceous"
   },
   {
     "name": "Triceratops",
     "imgSrc": "https://live.mrf.io/statics/i/ps/cdn.zmescience.com/wp-content/uploads/2018/03/Triceratops_BWMK.jpg?width=1200&enable=upscale",
-    "weight": "13,000-26,000 lbs",
+    "weight": "13000-26000 lbs",
     "height": "9.5-9.8 ft.",
     "length": "26-30 ft.",
     "diet": "plants",
-    "period": "Cretaceous"
+    "period": "Late Cretaceous"
   },
   {
     "name": "Brachiosaurus",
@@ -34,52 +34,52 @@
     "height": "66-69 ft.",
     "length": "85-98 ft.",
     "diet": "plants",
-    "period": "Cretaceous"
+    "period": "Late Jurassic"
   },
   {
     "name": "Therizinosaurus",
     "imgSrc": "https://museum.wa.gov.au/sites/default/files/imagecache/wam_v2_article_full_nocrop/att-images/2014/Therizinosaurus_0.jpg",
-    "weight": "11,000 lbs",
+    "weight": "11000 lbs",
     "height": "4.5 ft.",
     "length": " 33 ft.",
     "diet": "plants",
-    "period": "Cretaceous"
+    "period": "Late Cretaceous"
   },
   {
     "name": "Stegosaurus",
     "imgSrc": "https://www.renderhub.com/treeworld3d/game-ready-dinosaur-stegosaurus/game-ready-dinosaur-stegosaurus-01.jpg",
-    "weight": "11,700-15,400",
-    "height": "",
+    "weight": "6800 lbs",
+    "height": "26 - 30 ft.",
     "length": "21 ft.",
     "diet": "plants",
-    "period": "Jurassic"
+    "period": "Late Jurassic"
   },
   {
     "name": "Giganotosaurus",
     "imgSrc": "https://i0.wp.com/iknowdino.com/wp-content/uploads/2018/02/Giganotos_Db.jpg?fit=1280%2C640&ssl=1",
-    "weight": "9,300- 30,000 lb",
+    "weight": "9300- 30000 lb",
     "height": "16.6-18.3 ft.",
     "length": "39 – 43 ft.",
     "diet": "meat",
-    "period": "Cretaceous"
+    "period": "Late Cretaceous"
   },
   {
     "name": "Carcharodontosaurus",
     "imgSrc": "https://i.imgur.com/AQXjZ3E.jpg",
-    "weight": "13,000 – 33,000 lbs",
+    "weight": "13000 – 33000 lbs",
     "height": "4.3 meters",
     "length": "26 – 46 ft.",
     "diet": "meat",
-    "period": "Cretaceous"
+    "period": "mid-Cretaceous"
   },
   {
     "name": "Spinosaurus",
     "imgSrc": "https://cdn.britannica.com/54/128854-050-F5C98A54/Spinosaurus.jpg",
-    "weight": "",
+    "weight": "14000 – 17000 lbs",
     "height": "14 – 23 ft.",
     "length": "49 – 51 ft.",
     "diet": "meat",
-    "period": "Cretaceous"
+    "period": "Late Cretaceous"
   },
   {
     "name": "Suchomimus",
@@ -88,241 +88,244 @@
     "height": "11-16.4 ft.",
     "length": "31-36 ft.",
     "diet": "meat",
-    "period": "Cretaceous"
+    "period": "Early Cretaceous"
   },
   {
     "name": "Pachycephalosaurus",
     "imgSrc": "https://static.turbosquid.com/Preview/2020/02/20__11_38_26/Pachy1.jpgB5F845FA-7D17-42D7-B31E-09767FCCAF9ADefaultHQ.jpg",
-    "weight": "66 – 2,200 lbs",
+    "weight": "66 – 2200 lbs",
     "height": "5 ft.",
     "length": "15 ft.",
     "diet": "plants",
-    "period": "Cretaceous"
+    "period": "Late Cretaceous"
   },
   {
     "name": "Tanius",
     "imgSrc": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Tanius.jpg",
-    "weight": "4,400 lbs",
+    "weight": "4400 lbs",
     "height": "7 meters",
     "length": "23 ft.",
     "diet": "plants",
-    "period": "Cretaceous"
+    "period": "Late Cretaceous"
   },                                                                             
   {
     "name": "Tarchia",
     "imgSrc": "https://i.pinimg.com/originals/58/8e/b1/588eb1f837d335f0f9c8258412b92ee6.jpg",
     "weight": "weight of 2.5 tons",
-    "height": "",
+    "height": "10 ft.",
     "length": "28 ft.",
     "diet": "plants",
-    "period": ""
+    "period": "Late Cretaceous"
   },
   {
     "name": "Ankylosaurus",
     "imgSrc": "https://vignette.wikia.nocookie.net/isle/images/b/b1/Ankylo.png/revision/latest?cb=20200208124525",
-    "weight": "",
-    "height": "",
-    "length": "",
-    "diet": "",
-    "period": ""
+    "weight": "11000 – 18000 lbs",
+    "height": "5.6 ft.",
+    "length": "20 – 26 ft.",
+    "diet": "plants",
+    "period": "Late Cretaceous"
   },
   {
     "name": "Tarbosaurus",
     "imgSrc": "https://vignette.wikia.nocookie.net/jurassic-world-alive/images/d/da/Tarbosaurus.png/revision/latest?cb=20180807123127",
-    "weight": "",
-    "height": "",
-    "length": "",
-    "diet": "",
-    "period": ""
+    "weight": "8800 – 11000 lbs",
+    "height": "20 ft.",
+    "length": "33 – 39 ft.",
+    "diet": "meat",
+    "period": "Late Cretaceous"
   },
   {
     "name": "Velociraptor",
     "imgSrc": "https://images-na.ssl-images-amazon.com/images/I/91OIe-dZZ3L._AC_SL1500_.jpg",
-    "weight": "",
-    "height": "",
-    "length": "",
-    "diet": "",
-    "period": ""
+    "weight": "33 lbs",
+    "height": "1.6 ft.",
+    "length": "6.8 ft.",
+    "diet": "meat & plants",
+    "period": "Late Cretaceous"
   },
+
   {
     "name": "Thecodontosaurus",
     "imgSrc": "https://ayay.co.uk/backgrounds/dinosaurs/herbivore/thecodontosaurus.jpg",
-    "weight": "",
-    "height": "",
-    "length": "",
-    "diet": "",
-    "period": ""
+    "weight": "24 lbs",
+    "height": "12 in.",
+    "length": "3.9 ft.",
+    "diet": "meat & plants",
+    "period": "Late Triassic"
   },
   {
     "name": "Dromaeosaurus",
     "imgSrc": "https://cdnb.artstation.com/p/assets/images/images/000/562/917/large/candela-riveros-dromaeosaurus-2.jpg?1426867049",
-    "weight": "",
-    "height": "",
-    "length": "",
-    "diet": "",
-    "period": ""
+    "weight": "33 lbs",
+    "height": "18 in.",
+    "length": "6.6 ft.",
+    "diet": "meat",
+    "period": "Late Cretaceous"
   },
   {
     "name": "Apatosaurus",
     "imgSrc": "https://vignette.wikia.nocookie.net/heroes-of-the-characters/images/5/52/Jurassic_World_Fallen_Kingdom_Apatosaurus_v2_by_Sonichedgehog2-DCFC65I.png/revision/latest?cb=20181029094358",
-    "weight": "",
-    "height": "",
-    "length": "",
-    "diet": "",
-    "period": ""
+    "weight": "36000 – 49000 lbs",
+    "height": "6 meters",
+    "length": "69 – 75 ft.",
+    "diet": "plants",
+    "period": "Late jurassic"
   },
   {
     "name": "Allosaurus",
     "imgSrc": "https://www.nps.gov/dino/learn/nature/images/allosaurus-fragilis_2.jpg",
-    "weight": "",
-    "height": "",
-    "length": "",
-    "diet": "",
-    "period": ""
+    "weight": "2 tons",
+    "height": "16.5 ft.",
+    "length": "35 ft.",
+    "diet": "meat",
+    "period": "Late jurassic"
   },
   {
     "name": "Saurophaganax",
     "imgSrc": "https://i.ytimg.com/vi/ZIvNjODkdWs/maxresdefault.jpg",
-    "weight": "",
-    "height": "",
-    "length": "",
-    "diet": "",
-    "period": ""
+    "weight": "6600 – 9900 lbs",
+    "height": "14 f",
+    "length": "34 – 43 ft.",
+    "diet": "meat",
+    "period": "Late Jurassic"
   },
   {
     "name": "Baryonyx",
     "imgSrc": "https://www.jurassicworld.com/sites/default/files/2018-06/1440x651_0012_baryonyx.png",
-    "weight": "",
-    "height": "",
-    "length": "",
-    "diet": "",
-    "period": ""
+    "weight": "2600 – 3700 lbs",
+    "height": "3 meters",
+    "length": "25 – 33 ft.",
+    "diet": "meat",
+    "period": "Early Cretaceous"
   },
   {
     "name": "Albertosaurus",
     "imgSrc": "https://i.ytimg.com/vi/2HIhnVYqwxQ/maxresdefault.jpg",
-    "weight": "",
-    "height": "",
-    "length": "",
-    "diet": "",
-    "period": ""
+    "weight": "2900 – 5500 lbs",
+    "height": "4 meters",
+    "length": "30 ft.",
+    "diet": "meat",
+    "period": "Late Cretaceous"
   },
   {
     "name": "Styracosaurus",
     "imgSrc": "https://cdnb.artstation.com/p/assets/images/images/016/881/491/large/david-blaya-styracosaurus-02-white.jpg?1553812951",
-    "weight": "",
-    "height": "",
-    "length": "",
-    "diet": "",
-    "period": ""
+    "weight": "6000 lbs",
+    "height": "5.9 ft.",
+    "length": "18 ft",
+    "diet": "plants",
+    "period": "Late Cretaceous"
+   
   },
   {
     "name": "Lambeosaurus",
     "imgSrc": "https://live.staticflickr.com/600/21705499921_8e36d71517_b.jpg",
-    "weight": "",
-    "height": "",
-    "length": "",
-    "diet": "",
-    "period": ""
+    "weight": "2200 – 6600 lbs",
+    "height": "7 ft.",
+    "length": "30 – 49 ft.",
+    "diet": "plants",
+    "period": "Late Cretaceous"
+    
   },
   {
     "name": "Euoplocephalus",
     "imgSrc": "https://res.cloudinary.com/dk-find-out/image/upload/q_80,w_1920,f_auto/Euplocephalus_Albert_daamm9.jpg",
-    "weight": "",
-    "height": "",
-    "length": "",
-    "diet": "",
-    "period": ""
+    "weight": "4400 lbs",
+    "height": "4 ft.",
+    "length": "23 ft.",
+    "diet": "plants",
+    "period": "late Cretaceous"
   },
   {
     "name": "Eoraptor",
     "imgSrc": "https://res.cloudinary.com/dk-find-out/image/upload/q_70,c_pad,w_1200,h_630,f_auto/eoraptor_profile_new_c6uvzj.jpg",
-    "weight": "",
-    "height": "",
-    "length": "",
-    "diet": "",
-    "period": ""
+    "weight": "22 lbs",
+    "height": "3.2 ft.",
+    "length": "3.3 ft.",
+    "diet": "meat & plants",
+    "period": "Late Triassic"
   },
   {
     "name": "Ornithomimus",
     "imgSrc": "https://cdn.vox-cdn.com/thumbor/jIseYxO-hd11LJVBb86icDMIHfI=/41x0:758x478/1200x800/filters:focal(41x0:758x478)/cdn.vox-cdn.com/assets/1918601/Struthiomimus_BW.jpg",
-    "weight": "",
-    "height": "",
-    "length": "",
-    "diet": "",
-    "period": ""
+    "weight": "370 lbs",
+    "height": "7 ft.",
+    "length": "12 ft.",
+    "diet": "meat & plants",
+    "period": "Late Cretaceous"
   },
   {
     "name": "Herrerasaurus",
     "imgSrc": "https://vignette.wikia.nocookie.net/dinosaur-protection-group/images/2/2a/Herrerasaurus_use.png/revision/latest?cb=20200426222400",
-    "weight": "",
-    "height": "",
-    "length": "",
-    "diet": "",
-    "period": ""
+    "weight": "770 lbs",
+    "height": "3.3ft",
+    "length": "9.8 – 20 ft.",
+    "diet": "meat",
+    "period": "Late Triassic"
   },
   {
     "name": "Diplodocus",
     "imgSrc": "https://res.cloudinary.com/dk-find-out/image/upload/q_80,h_1000,f_auto/diplodocus_whole_amzt6e.jpg",
-    "weight": "",
-    "height": "",
-    "length": "",
-    "diet": "",
-    "period": ""
+    "weight": "25 tons",
+    "height": "27.4 meters",
+    "length": "90 ft.",
+    "diet": "plants",
+    "period": "Late Jurassic"
   },
   {
     "name": "Einiosaurus",
     "imgSrc": "https://www.brainstormltd.co.uk/wp-content/uploads/2018/05/1-1_Einiosaurus_copy-1024x929.jpg",
-    "weight": "",
-    "height": "",
-    "length": "",
-    "diet": "",
-    "period": ""
+    "weight": "2900 lbs",
+    "height": "4.5 meters",
+    "length": "15 ft.",
+    "diet": "plants",
+    "period": "Late Cretaceous"
   },
   {
     "name": "Deinonychus",
     "imgSrc": "https://www.worldatlas.com/r/w1200-h701-c1200x701/upload/26/92/6c/shutterstock-467339321.jpg",
-    "weight": "",
-    "height": "",
-    "length": "",
-    "diet": "",
-    "period": ""
+    "weight": "160 – 220 lbs",
+    "height": "1.5 meters",
+    "length": "3.4 meters",
+    "diet": "meat",
+    "period": "Early Cretaceous"
   },
   {
     "name": "Tenontosaurus",
     "imgSrc": "https://www.sciencesource.com/Doc/TR1_WATERMARKED/e/e/9/4/SS2804763.jpg?d63644555265",
-    "weight": "",
-    "height": "",
-    "length": "",
-    "diet": "",
-    "period": ""
+    "weight": "2200 – 4400 lbs",
+    "height": "9.8 ft.",
+    "length": "21-26 ft.",
+    "diet": "plants",
+    "period": "mid-Cretaceous"
   },
   {
     "name": "Plateosaurus",
     "imgSrc": "https://res.cloudinary.com/dk-find-out/image/upload/q_80,w_1920,f_auto/Plateosaurus_whole_bq2b8s.jpg",
-    "weight": "",
-    "height": "",
-    "length": "",
-    "diet": "",
-    "period": ""
+    "weight": "1300 - 8800 lbs",
+    "height": "15 ft.",
+    "length": "13 - 33 ft." ,
+    "diet": "plants",
+    "period": "Late Triassic"
   },
   {
     "name": "Oviraptor",
     "imgSrc": "https://c8.alamy.com/comp/E1JMF8/oviraptor-dinosaur-white-background-E1JMF8.jpg",
-    "weight": "",
-    "height": "",
-    "length": "",
-    "diet": "",
-    "period": ""
+    "weight": "55 - 79 lbs",
+    "height": "3 - 5 ft.",
+    "length": "5 ft.",
+    "diet": "meat & plants",
+    "period": "Late Cretaceous"
   },
   {
     "name": "Sinosauropteryx",
     "imgSrc": "https://www.newdinosaurs.com/wp-content/uploads/2019/02/1739_sinosauropteryx_oscar_valdes.png",
-    "weight": "",
-    "height": "",
-    "length": "",
-    "diet": "",
-    "period": ""
+    "weight": "1.2 lbs",
+    "height": "30 cm ",
+    "length": "3.5 ft.",
+    "diet": "meat",
+    "period": "late Jurassic to the early Cretaceous"
   },
   {
     "name": "Riojasaurus",
@@ -485,5 +488,30 @@
     "length": "",
     "diet": "",
     "period": ""
-  }
-]
+  },
+  {
+    "name": "Coelophysis",
+    "imgSrc": "https://images.fineartamerica.com/images-medium-large-5/coelophysis-dinosaur-scieproscience-photo-library.jpg",
+    "weight": "",
+    "height": "",
+    "length": "",
+    "diet": "",
+    "period": ""    
+  },  
+  {
+    "name": "Lilliensternus",
+    "imgSrc": "https://i.pinimg.com/originals/97/11/21/971121778ba8a43e2bad783a28dd5788.png",
+    "weight": "",
+    "height": "",
+    "length": "",
+    "diet": "",
+    "period": ""    
+  },  
+  {     
+    "name": "",
+    "imgSrc": "",
+    "weight": "",
+    "height": "",
+    "length": "",
+    "diet": "",
+    "period": ""  
