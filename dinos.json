@@ -12,6 +12,7 @@
   {
     "name": "T-rex",
     "imgSrc": "https://i.natgeofe.com/n/91662b23-a712-4dae-bf88-0bc071dfc445/01-trex-scotty_publicity_websize-credit--beth-zaiken_3x2.jpg",
+    "modelSrc":"https://sketchfab.com/models/e380c40d64fc49e8a823e9c648f9ab0f/embed",
     "weight": "9900-31000 lbs",
     "height": "12-20 ft.",
     "length": "40 ft.",
