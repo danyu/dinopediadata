@@ -22,6 +22,7 @@
   {
     "name": "Triceratops",
     "imgSrc": "https://live.mrf.io/statics/i/ps/cdn.zmescience.com/wp-content/uploads/2018/03/Triceratops_BWMK.jpg?width=1200&enable=upscale",
+    "modelSrc": "https://sketchfab.com/models/4cdcba98ef12406fbdc294043c6950a6/embed",
     "weight": "13000-26000 lbs",
     "height": "9.5-9.8 ft.",
     "length": "26-30 ft.",
@@ -139,6 +140,7 @@
   {
     "name": "Velociraptor",
     "imgSrc": "https://images-na.ssl-images-amazon.com/images/I/91OIe-dZZ3L._AC_SL1500_.jpg",
+    "modelSrc": "https://sketchfab.com/models/02fa50fae031447c98e56d1710e9fbe2/embed",
     "weight": "33 lbs",
     "height": "1.6 ft.",
     "length": "6.8 ft.",
