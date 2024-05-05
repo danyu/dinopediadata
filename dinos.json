@@ -178,6 +178,7 @@
   {
     "name": "Allosaurus",
     "imgSrc": "https://www.nps.gov/dino/learn/nature/images/allosaurus-fragilis_2.jpg",
+    "modelSrc": "https://sketchfab.com/models/22458fb6738f465a85ae9ec3d389583f/embed",
     "weight": "2 tons",
     "height": "16.5 ft.",
     "length": "35 ft.",
