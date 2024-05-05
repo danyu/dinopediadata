@@ -122,6 +122,7 @@
   {
     "name": "Ankylosaurus",
     "imgSrc": "https://vignette.wikia.nocookie.net/isle/images/b/b1/Ankylo.png/revision/latest?cb=20200208124525",
+    "modelSrc": "https://sketchfab.com/models/28fe1f7f2e33499ca08d713a46d4566a/embed",
     "weight": "11000 – 18000 lbs",
     "height": "5.6 ft.",
     "length": "20 – 26 ft.",
